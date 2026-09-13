@@ -1,6 +1,6 @@
 const CACHE_NAME = 'gallego-perez-v2';
 const FILES_TO_CACHE = [
-  './Familia_Gallego_Perez.html',
+  'index.html',
   './manifest.json'
 ];
 
