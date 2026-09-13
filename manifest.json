@@ -2,7 +2,7 @@
   "name": "Familia Gallego-Pérez",
   "short_name": "Gallego-Pérez",
   "description": "App de finanzas familiares",
-  "start_url": "./Familia_Gallego_Perez",
+  "start_url": "./Familia_Gallego_Perez.html",
   "display": "standalone",
   "background_color": "#0e0f13",
   "theme_color": "#0e0f13",
