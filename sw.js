@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gallego-perez-v3';
+const CACHE_NAME = 'gallego-perez-v4';
 const FILES_TO_CACHE = [
   './',
   './index.html',
